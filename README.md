@@ -16,7 +16,8 @@
 ## 第五步
 按下Ctrl + F3, 在游戏中烹饪窗口关闭的情况下，输入{生成的脚本文件名}，以及数量。 大功告成！
 ## 其他
-之后如果需要再启用自动化，仅需要Ctrl + F3 就可以了。当然如果想添加新的料理的话还是要Ctrl + F2创建新的脚本。
+### 之后如果需要再启用自动化，仅需要Ctrl + F3 就可以了。当然如果想添加新的料理的话还是要Ctrl + F2创建新的脚本。
+### 将 Setting.ini中的Language=CN 改为 Language=EN 便可使用英文版
 
 
 # 已知问题
@@ -41,7 +42,8 @@ Press Ctrl + F2 and follow the prompts to generate a parameter file named {Dish_
 Press Ctrl + F3, ensuring the in-game cooking window is closed, enter the generated script file name and the desired quantity. All set!
 
 ## Additional Notes
-To reuse the automation later, simply press Ctrl + F3. If you'd like to automate cooking a new dish, create a new script by pressing Ctrl + F2.
+### To reuse the automation later, simply press Ctrl + F3. If you'd like to automate cooking a new dish, create a new script by pressing Ctrl + F2.
+### Go into Setting.ini, and replace 'Language=CN' to 'Language=EN' to use English version
 
 # Known Issues
 Before starting the cooking automation with F3, you need to switch channels or go back to character selection once. The automation reset of keys is cumbersome, so switching manually for now is simpler. I'll address this issue when possible.
