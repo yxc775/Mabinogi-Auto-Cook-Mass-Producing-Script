@@ -23,7 +23,7 @@
 # 已知问题
 每次启动F3烹饪脚本前需要切线，或退到人物选择单一次，自动化复原键位还是挺麻烦的，所以干脆手动切线得了，之后找机会再解决吧。
 
-# Mabinogi MMO Automatic Cooking System - Now You Can Cooking in Bulk! W
+# Mabinogi MMO Automatic Cooking System - Now You Can Cook in Bulk! W
 
 This is an automation cooking script I wrote on a whim. You are free to use and share it, provided you credit the author.
 This all starts with a story that my hand feel hurting after I manually cook a bunch of apple cidar for my elf mage... so here it go!
